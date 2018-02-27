@@ -1,18 +1,15 @@
-UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO
+UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO.
+Facultad de ciencias.
+Licenciatura en ciencias de la computación.
 
-Facultad de ciencias
+Inteligencia Artificial, Semestre 2018-2.
+Grupo 7000.
 
-Licenciatura en ciencias de la computación
-
-Inteligencia Artificial, Semestre 2018-2 
-Grupo 7000
-
-Profesora Dra. Verónica Esther Arriola
-
-Ayudante Vladimir Mijail Aaron Gutiérrez Valdez
-
-Ayudante Iván Torres Rodríguez
-
-Ayud. Lab. 	Benjamin Torres Saavedra
+Profesora Dra. Verónica Esther Arriola.
+Ayudante Vladimir Mijail Aaron Gutiérrez Valdez.
+Ayudante Iván Torres Rodríguez.
+Ayud. Lab. 	Benjamin Torres Saavedra.
 
 Repositorio para reforzar los conocimientos adquiridos en clase.
+
+Empezaremos por crear un gato con prolog.
